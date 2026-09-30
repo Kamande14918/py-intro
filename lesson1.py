@@ -1,5 +1,5 @@
 # # vriable, datatypes, print() input()
-# name ="Kennedy"
+# name ="Kennedy Kamande"
 # age = 25
 # is_student = False
 # weight = 64.5 
